@@ -22,3 +22,10 @@ function johnLennonFacts(facts) {
   return shoutedFacts
 
 }
+
+
+function iLoveTheBeatles() {
+  let beatlesLove = [];
+
+  
+}
